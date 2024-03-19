@@ -24,8 +24,6 @@ public class MainActivity extends AppCompatActivity {
     Button btnregister;
     TextInputLayout inputemail, inputpasword;
     EditText edtemail, editpassword;
-
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
